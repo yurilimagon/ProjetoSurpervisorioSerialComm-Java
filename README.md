@@ -1,1 +1,1 @@
-# ProjetoSurpervis-rioCommSerial
+# ProjetoSurpervisorioCommSerial-Java
