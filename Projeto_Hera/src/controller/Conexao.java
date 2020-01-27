@@ -77,30 +77,3 @@ public class Conexao {
         return portas.size();
     }
 }
-
-
-/*
-
-    public ArrayList<String> getPortas() {
-        return portas;
-    }
-
-    public void setPortas(ArrayList<String> portas) {
-        this.portas = portas;
-    }
-
-    public ArrayList<String> getNomesPortas() {
-        return nomesPortas;
-    }
-
-    public void setNomesPortas(ArrayList<String> nomesPortas) {
-        this.nomesPortas = nomesPortas;
-    }
-
-    public void addNomesPortas(String nomePorta) {
-        portas.add(nomePorta);
-    }
-
-    public void addPortas(String porta) {
-        portas.add(porta);
-    }*/
